@@ -7,7 +7,9 @@ section{
     
     
 }
-
+.row{
+    padding-bottom: 30px;
+}
 
 #sec1 h3, #sec2 h3, #sec3 h3{
     text-align: center;
