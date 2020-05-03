@@ -1,0 +1,56 @@
+
+section{
+    background-color: 	#808080;
+    border:2px solid black;
+    padding: 5px;
+    margin-top: 50px;
+    
+    
+}
+
+
+#sec1 h3, #sec2 h3, #sec3 h3{
+    text-align: center;
+}
+
+
+#navlist{
+    background-color: #808080;
+    list-style-type: none;
+    width: 100%;
+    
+}
+
+li{
+    text-align:center;
+    font-size:1.3em;
+    
+}
+
+#assignnav{
+    background-color: #808080;
+     border-radius: 0;
+    border: 0;
+    
+}
+.navbar-header h2{
+    padding:10px;
+    color: black;
+    
+}
+.navbar-header a{
+    text-decoration: none;
+}
+.navbar-header button.navbar-toogle,.navbar-header .icon-bar{
+    border: 2px solid black;
+    
+}
+
+#navlist li:hover{
+    background: white;
+}
+
+.navbar-header button{
+    position: relative;
+    bottom: 50px;
+}
